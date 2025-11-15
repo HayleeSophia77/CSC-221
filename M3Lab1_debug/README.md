@@ -9,3 +9,5 @@ The zipped folder below contains all the files they gave you, you'll notice that
 IMPORTANT: Use of Functions is required.
 
 # Grade: 95
+"Well done, Haylee.
+-5 minimum late penalty applied. - H. Seidi"
