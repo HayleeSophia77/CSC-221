@@ -11,3 +11,6 @@ Important (Requirements):
 3. CSV files created must be submitted with code (should be a total of 3 csv files).
 
 3. Submit a zipped folder containing the finished code solution file(s), the csv files and the vet_serv.db through the assignment link below (M5Pro submission link)
+
+# Grade: 70
+" - H. Seidi"
