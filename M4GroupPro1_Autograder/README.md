@@ -4,7 +4,7 @@ Instructions for this assignment are provided in document linked in M4Auto_grade
 
 How to divide tasks and how each task will be graded is referenced in document linked in M4_GroupProject.docx
 
-Further instructions are referenced in your group.
+Further instructions are referenced in your group on canvas.
 
 Files that should be submitted for this group project(zipped folder containing the following):
 
