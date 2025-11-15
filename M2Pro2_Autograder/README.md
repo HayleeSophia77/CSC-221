@@ -39,3 +39,11 @@ https://app.diagrams.net/
 3. Remember, this is an auto-grader so make sure it's properly structured. You might want to consider modularizing it too.
 
 4. Don't forget pseudocode.
+
+# Grade: 97
+
+"Excellent Haylee! Well done.
+
+I love how it grades all programs with one click and the feedback is great too.
+
+My only comment is on the while True. Remember, if found, the program is to assign a grade of 1. Make sure that's what happens in the group project."
