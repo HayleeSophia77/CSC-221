@@ -32,3 +32,5 @@ Grading criteria:
 * Remember (Custom functions must always have docstrings
 * Program MUST be modularized (2 code files)
 * while True is NOT to be used. If submission doesn't comply, you will get a grade of "1"
+
+# Grade: 100
