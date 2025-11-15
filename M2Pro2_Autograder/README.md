@@ -46,4 +46,4 @@ https://app.diagrams.net/
 
 I love how it grades all programs with one click and the feedback is great too.
 
-My only comment is on the while True. Remember, if found, the program is to assign a grade of 1. Make sure that's what happens in the group project."
+My only comment is on the while True. Remember, if found, the program is to assign a grade of 1. Make sure that's what happens in the group project. - H.Seidi"
