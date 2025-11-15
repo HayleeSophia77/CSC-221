@@ -20,3 +20,7 @@ Group Members:
 * Daley Ottersbach - [@OttersbachD0987](https://github.com/OttersbachD0987)
 * Haylee Paredes - [@HayleeSophia77](https://github.com/HayleeSophia77)
 * Myra Williams
+
+# Grade: 88
+"You guys did a good job, but program doesn't run as it should. 
+Keep it simple, make sure requirements are met first."
