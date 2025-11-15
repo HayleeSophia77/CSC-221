@@ -6,10 +6,10 @@ For this assignment, you are to solve chapter 9 problem 2(Country Statistics-Mul
 
 2. Add a title comment block to the top of the new Python file using the following form:
 
-# A brief description of the project
-# Date
-# CSC221 M1Pro–Review
-# Your Name
+* A brief description of the project
+* Date
+* CSC221 M1Pro–Review
+* Your Name
 
 Part 1
 
