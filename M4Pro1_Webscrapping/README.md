@@ -22,3 +22,5 @@ Part 2:
 6. Exception handling must be considered.
 
 7. Submit your finished code solution file(s) through the assignment submission link posted below. Should be a zipped folder containing modularized program and word document
+
+# Grade: 100
