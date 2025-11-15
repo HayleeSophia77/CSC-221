@@ -3,9 +3,10 @@ Instructions:
 1. For this assignment , you are to fix a program that isn't working. This is called debugging
 
 2. The program worked before but an unexperienced programmer tried and enhance it and ended up ruining it!!!
-Before attempting to fix it, you need to know what the program was meant to do. See the program description below
+3. 
+Before attempting to fix it, you need to know what the program was meant to do. See the program description below:
 
-Description: "The program should allow the user to run a driving test. So, the first thing is should do is display the menu.
+Description: "The program should allow the user to run a driving test. So, the first thing is should do is display the menu."
 
 3. If the user were to enter the number 1, the program would run the driving test. Notice the questions and answers are all referenced in a dictionary of dictionaries.
 
