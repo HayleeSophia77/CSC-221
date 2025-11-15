@@ -6,10 +6,10 @@ How to divide tasks and how each task will be graded is referenced in document l
 
 Further instructions are referenced in your group on canvas.
 
-Files that should be submitted for this group project(zipped folder containing the following):
+Files that should be submitted for this group project (zipped folder containing the following):
 
-* Modularized program (at least 2 .py files )
-* Word document listing findings and results of Part1, Part3 and Part4(make sure it’s well organized and properly outlined)
+* Modularized program (at least 2 .py files)
+* Word document listing findings and results of Part1, Part3 and Part4 (make sure it’s well organized and properly outlined)
 * Flowchart
 
 Only ONE submission per team!!
