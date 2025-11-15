@@ -16,9 +16,9 @@ One last thing I'd like to point out. We will be building on this project, in on
 
 So what is the project about? Well, you are to create a program that helps students test their understanding of different networking concepts.
 
-Project overview
+Project overview:
 
-* The goal of this multi-module assignment is to create a Python auto-grader program capable of evaluating multiple student Python assignments of varying complexity. The project is designed to be completed in stages, progressively introducing more advanced testing techniques and features, culminating in a GUI-based application.
+The goal of this multi-module assignment is to create a Python auto-grader program capable of evaluating multiple student Python assignments of varying complexity. The project is designed to be completed in stages, progressively introducing more advanced testing techniques and features, culminating in a GUI-based application.
 
 ___
 
