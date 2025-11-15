@@ -24,3 +24,5 @@ Description: "The program should allow the user to run a driving test. So, the f
 5. Download the zipped folder below, it contains the two program files you need fix. When fixed, run the program and make sure that delivers results similar to what is shown.
 
 6. Submit assignment using submission link (below this post). You should be submitting a zipped folder that contains the following (the 2 code files)
+
+# Grade: 100
