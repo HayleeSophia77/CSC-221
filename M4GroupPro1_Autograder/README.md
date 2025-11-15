@@ -23,4 +23,4 @@ Group Members:
 
 # Grade: 88
 "You guys did a good job, but program doesn't run as it should. 
-Keep it simple, make sure requirements are met first."
+Keep it simple, make sure requirements are met first. - H. Seidi"
