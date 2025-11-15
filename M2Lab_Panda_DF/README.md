@@ -16,6 +16,8 @@ c) Augment data: Add a column that is the difference between the price on the la
 
 d) Missing values: Determine which stocks do not have price data.
 
+___
+
 1. Create a Python code file named M2Lab_Panda_DF_FirstLast.py (replace "FirstLast" with your own name)
 
 2. Add a title comment block to the top of the new Python file using the following form:
