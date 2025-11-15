@@ -90,3 +90,5 @@ Important points to take note of:
 * Exception handling Must be used
 * Write program Pseudocode (detail algorithm) and add it as a comment block to the submitted program.
 * While True is NOT to be used.  If submission doesn't comply, you will get a grade of "1"
+
+# Grade: 100
