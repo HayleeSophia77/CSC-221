@@ -35,3 +35,5 @@ Important points to take note of:
 
 * Functions MUST be used (at least 1 custom function must be created, the program must also have a main function)
 * Exception handling Must be used
+
+# Grade: 100
