@@ -3,17 +3,16 @@ Instructions:
 1. For this assignment , you are to fix a program that isn't working. This is called debugging
 
 2. The program worked before but an unexperienced programmer tried and enhance it and ended up ruining it!!!
-
-3. Before attempting to fix it, you need to know what the program was meant to do. See the program description below:
+Before attempting to fix it, you need to know what the program was meant to do. See the program description below:
 
 Description: "The program should allow the user to run a driving test. So, the first thing is should do is display the menu."
 
-4. If the user were to enter the number 1, the program would run the driving test. Notice the questions and answers are all referenced in a dictionary of dictionaries.
+3. If the user were to enter the number 1, the program would run the driving test. Notice the questions and answers are all referenced in a dictionary of dictionaries.
 
-Notice that the dictionary references 10 items, or questions. the question numbers are the keys and each key points to a dictionary that references a question.
-Also notice that each question ,represented in a dictionary, has two values, the first key "question" points to the actual question and the "answer" key points to the answer.
+* Notice that the dictionary references 10 items, or questions. the question numbers are the keys and each key points to a dictionary that references a question.
+* Also notice that each question ,represented in a dictionary, has two values, the first key "question" points to the actual question and the "answer" key points to the answer.
  
-5. When the user chooses option 1, the program is to do the following
+4. When the user chooses option 1, the program is to do the following:
 
 * Display the question
 * Ask the user to enter 1 for True or 2 for False
@@ -22,6 +21,6 @@ Also notice that each question ,represented in a dictionary, has two values, the
 * After all the questions are answered, tell the user what their score is
 * If the user's score is greater than or equal to 80, tell them that they passed. And if not, tell them that they failed
 
-6. Download the zipped folder below, it contains the two program files you need fix. When fixed, run the program and make sure that delivers results similar to what is shown.
+5. Download the zipped folder below, it contains the two program files you need fix. When fixed, run the program and make sure that delivers results similar to what is shown.
 
-7. Submit assignment using submission link (below this post). You should be submitting a zipped folder that contains the following (the 2 code files)
+6. Submit assignment using submission link (below this post). You should be submitting a zipped folder that contains the following (the 2 code files)
