@@ -5,6 +5,8 @@ This course introduces advanced computer programming using the Python programmin
 
 Upon completion, students should be able to design, code, test, and debug advanced Python programs. 
 
+---
+
 Grading of Programs (Python):
 The purpose of this document is to help students understand assignment submission and grading
 requirements. Below is a standardized list of how submitted programs are to be graded.
