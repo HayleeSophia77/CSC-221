@@ -1,5 +1,5 @@
 # CSC-221, Adv. Python
-Instructor - Hana Seidi
+Instructor - H. Seidi
 
 This course introduces advanced computer programming using the Python programming language. Emphasis is placed on advanced programming concepts, including advanced algorithms and programming principles, using standard and third-party libraries.
 
